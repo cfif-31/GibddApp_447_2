@@ -40,7 +40,7 @@ namespace GibddApp_447
             this.bt_Login.Name = "bt_Login";
             this.bt_Login.Size = new System.Drawing.Size(100, 23);
             this.bt_Login.TabIndex = 0;
-            this.bt_Login.Text = "button1";
+            this.bt_Login.Text = "Изменить";
             this.bt_Login.UseVisualStyleBackColor = true;
             this.bt_Login.Click += new System.EventHandler(this.bt_Login_Click);
             // 

@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace GibddApp_447.Classes.Entityes
 {
+    /// <summary>
+    /// Продажа
+    /// </summary>
     public class Sell
     {
         [Key]
